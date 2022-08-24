@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-05e39264ca8a94bb4e85.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RUDumb",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RUDumb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RUDumb-Debug-34110409bfa6ec840a5a.json",
+					"name" : "RUDumb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RUDumb_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RUDumb_autogen-Debug-05ef29f7d304f9b1e510.json",
+					"name" : "RUDumb_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RUDumb_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RUDumb_autogen_timestamp_deps-Debug-43032bdf9079ab054d83.json",
+					"name" : "RUDumb_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QtProjects/build-RUDumb-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "D:/QtProjects/RUDumb"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
